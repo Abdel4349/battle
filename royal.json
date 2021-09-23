@@ -39,7 +39,7 @@
 	"INTER_INTERVAL":4,
 
 "BVISIBLE":"false",
-"MORETIPSLINK":"https://play.google.com/store/apps",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.clasgame.arcagam",
 
 
     "NATIVESWITCHBANNER":"true",
@@ -53,7 +53,36 @@
 	"moreappsgrid":[
 					
 		
-			
+			{
+						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
+						"name":"BIG WORMS",
+						"type":"install"
+					},
+		{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.clasgame.arcagam",
+						"name":"64 GAMES in 1 App",
+						"type":"install"
+					},
+		{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.clasgame.arcagam",
+						"name":"64 GAMES in 1 App",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/S8rXnelaBwubnX6Nt9jd83Jyyp7spt1Vxn2_zzmv8qObL5nNlXnMEuLWH4Iasrf4A3mv=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.puppyrace.riding",
+						"name":"Paw Racing Patrol",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/-eH1N8CtwAS6ZfVuknvHXqQcVPfDO6xMttMPSPUTxjLWRHIqd42mViuhht7ibkdTW8s=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.blazers.ladys",
+						"name":"Lady Bug Run",
+						"type":"install"
+					}
 					
 				
 	]
