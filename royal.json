@@ -38,8 +38,8 @@
 
 	"INTER_INTERVAL":4,
 
-"BVISIBLE":"false",
-"MORETIPSLINK":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
+"BVISIBLE":"true",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
 
 
     "NATIVESWITCHBANNER":"true",
@@ -61,7 +61,7 @@
 					},
 		{
 						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.clasgame.arcagam",
+						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
 						"name":"64 GAMES in 1 App",
 						"type":"install"
 					},
